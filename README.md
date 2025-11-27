@@ -139,8 +139,28 @@ This dataset provides geographically referenced HIV-positive cases across Ghana�
 <ul>
   <li>Females consistently have higher HIV prevalence than males across almost all regions, accounting for roughly 55–60% of total HIV cases.</li>
   <li>Similarly, AIDS-related deaths are slightly higher in females, though overall deaths are declining over time due to improved treatment (ART programs).</li>
-  <li>Insight: Gender-specific interventions targeting women are critical, including education, testing, and access to healthcare services.</li>
+  <li> <b>Insight:</b> Gender-specific interventions targeting women are critical, including education, testing, and access to healthcare services.</li>
 </ul>
+<p></p>
+
+<b>3. Age Group Patterns</b>
+<ul>
+  <li>HIV is concentrated in adults aged 25–39, with 25–29, 30–34, and 35–39 being the most affected age brackets.</li>
+  <li>Younger populations (15–19) and older adults (45+) have lower prevalence, though awareness programs are still needed.</li>
+  <li> <b>Insight:</b> Prevention and behavioral intervention campaigns should focus on high-risk adult groups, particularly in urban regions.</li>
+</ul>
+<p></p>
+
+<b>4. AIDS-Related Deaths</b>
+<ul>
+  <li>AIDS-related deaths declined from ~24,639 in 2004 to ~16,277 in 2014, reflecting successful treatment interventions and ART rollout.</li>
+  <li>Decline is more significant in males, possibly indicating better female engagement with care programs or higher initial female prevalence.</li>
+  <li> <b>Insight:</b> Continuous treatment access and education are critical to sustaining this downward trend.</li>
+</ul>
+
+
+
+<img width="1870" height="511" alt="image" src="https://github.com/user-attachments/assets/caa0df1e-5ab2-4990-91aa-39940a2bd13b" />
 
 
 

@@ -53,8 +53,28 @@ This dataset provides geographically referenced HIV-positive cases across Ghana�
 <img width="502" height="617" alt="ghana hiv map" src="https://github.com/user-attachments/assets/9b1eb346-decb-4573-9b20-a237e201d526" />
 <p></p>
 
-## KEY VARIABLES AND THIER PURPOSE
+## KEY VARIABLES AND THEIR MEANINGS
 <img width="1361" height="707" alt="image" src="https://github.com/user-attachments/assets/4ff05a32-2cd4-4d6e-94f2-8a190fa8b17e" />
+<P></P>
+
+## OBJECTIVES
+1. Determine the prevalence of HIV across different regions of Ghana from 2004 to 2014.
+2. Analyze trends over the years to identify whether HIV prevalence is increasing, decreasing, or remaining stable.
+3. Assess the distribution by age groups and gender to identify high-risk populations.
+4. Compare regional differences to highlight areas with the highest and lowest prevalence.
+5. Provide insights for public health interventions based on observed patterns and trends.
+<P></P>
+<b>Data Cleaning & Preparation                         Tools Used: Excel, Power Bi, SQL</b>
+<img width="269" height="263" alt="image" src="https://github.com/user-attachments/assets/0540cb07-9cf9-431e-a658-833d06c92019" />
+
+Data cleaning involved:
+Removing empty or duplicate rows
+Correcting inconsistent region names
+Ensuring uniform year formats
+Formatting numeric fields (percentages, totals, prevalence rates)
+Mapping regional capitals with accurate latitude and longitude values
+
+
 
 
 👨‍💻 Author

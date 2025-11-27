@@ -1,0 +1,78 @@
+Region,Country,Capital,Latitude,Longitude,Year,HIV_Positive
+Ahafo,Ghana,Goaso,6.809,-2.502,2004,412
+Ahafo,Ghana,Goaso,6.809,-2.502,2005,430
+Ahafo,Ghana,Goaso,6.809,-2.502,2006,445
+Ahafo,Ghana,Goaso,6.809,-2.502,2007,470
+Ahafo,Ghana,Goaso,6.809,-2.502,2008,455
+Ahafo,Ghana,Goaso,6.809,-2.502,2009,498
+Ahafo,Ghana,Goaso,6.809,-2.502,2010,510
+Ahafo,Ghana,Goaso,6.809,-2.502,2011,522
+Ahafo,Ghana,Goaso,6.809,-2.502,2012,550
+Ahafo,Ghana,Goaso,6.809,-2.502,2013,565
+Ahafo,Ghana,Goaso,6.809,-2.502,2014,590
+Ashanti,Ghana,Kumasi,6.6666,-1.6163,2004,2100
+Ashanti,Ghana,Kumasi,6.6666,-1.6163,2005,2205
+Ashanti,Ghana,Kumasi,6.6666,-1.6163,2006,2340
+Ashanti,Ghana,Kumasi,6.6666,-1.6163,2007,2501
+Ashanti,Ghana,Kumasi,6.6666,-1.6163,2008,2600
+Ashanti,Ghana,Kumasi,6.6666,-1.6163,2009,2750
+Ashanti,Ghana,Kumasi,6.6666,-1.6163,2010,2900
+Ashanti,Ghana,Kumasi,6.6666,-1.6163,2011,3100
+Ashanti,Ghana,Kumasi,6.6666,-1.6163,2012,3250
+Ashanti,Ghana,Kumasi,6.6666,-1.6163,2013,3450
+Ashanti,Ghana,Kumasi,6.6666,-1.6163,2014,3600
+Bono,Ghana,Sunyani,7.3333,-2.3333,2004,620
+Bono,Ghana,Sunyani,7.3333,-2.3333,2005,645
+Bono,Ghana,Sunyani,7.3333,-2.3333,2006,670
+Bono,Ghana,Sunyani,7.3333,-2.3333,2007,690
+Bono,Ghana,Sunyani,7.3333,-2.3333,2008,710
+Bono,Ghana,Sunyani,7.3333,-2.3333,2009,735
+Bono,Ghana,Sunyani,7.3333,-2.3333,2010,760
+Bono,Ghana,Sunyani,7.3333,-2.3333,2011,785
+Bono,Ghana,Sunyani,7.3333,-2.3333,2012,820
+Bono,Ghana,Sunyani,7.3333,-2.3333,2013,850
+Bono,Ghana,Sunyani,7.3333,-2.3333,2014,880
+Central,Ghana,Cape Coast,5.1104,-1.2466,2004,1300
+Central,Ghana,Cape Coast,5.1104,-1.2466,2005,1380
+Central,Ghana,Cape Coast,5.1104,-1.2466,2006,1440
+Central,Ghana,Cape Coast,5.1104,-1.2466,2007,1500
+Central,Ghana,Cape Coast,5.1104,-1.2466,2008,1550
+Central,Ghana,Cape Coast,5.1104,-1.2466,2009,1620
+Central,Ghana,Cape Coast,5.1104,-1.2466,2010,1700
+Central,Ghana,Cape Coast,5.1104,-1.2466,2011,1780
+Central,Ghana,Cape Coast,5.1104,-1.2466,2012,1870
+Central,Ghana,Cape Coast,5.1104,-1.2466,2013,1930
+Central,Ghana,Cape Coast,5.1104,-1.2466,2014,2000
+Greater Accra,Ghana,Accra,5.6037,-0.187,2004,3000
+Greater Accra,Ghana,Accra,5.6037,-0.187,2005,3150
+Greater Accra,Ghana,Accra,5.6037,-0.187,2006,3300
+Greater Accra,Ghana,Accra,5.6037,-0.187,2007,3450
+Greater Accra,Ghana,Accra,5.6037,-0.187,2008,3600
+Greater Accra,Ghana,Accra,5.6037,-0.187,2009,3750
+Greater Accra,Ghana,Accra,5.6037,-0.187,2010,3900
+Greater Accra,Ghana,Accra,5.6037,-0.187,2011,4050
+Greater Accra,Ghana,Accra,5.6037,-0.187,2012,4200
+Greater Accra,Ghana,Accra,5.6037,-0.187,2013,4400
+Greater Accra,Ghana,Accra,5.6037,-0.187,2014,4600
+Northern,Ghana,Tamale,9.4008,-0.8393,2004,820
+Northern,Ghana,Tamale,9.4008,-0.8393,2005,860
+Northern,Ghana,Tamale,9.4008,-0.8393,2006,900
+Northern,Ghana,Tamale,9.4008,-0.8393,2007,940
+Northern,Ghana,Tamale,9.4008,-0.8393,2008,980
+Northern,Ghana,Tamale,9.4008,-0.8393,2009,1020
+Northern,Ghana,Tamale,9.4008,-0.8393,2010,1080
+Northern,Ghana,Tamale,9.4008,-0.8393,2011,1120
+Northern,Ghana,Tamale,9.4008,-0.8393,2012,1180
+Northern,Ghana,Tamale,9.4008,-0.8393,2013,1240
+Northern,Ghana,Tamale,9.4008,-0.8393,2014,1300
+Upper East,Ghana,Bolgatanga,10.7906,-0.8514,2004,670
+Upper East,Ghana,Bolgatanga,10.7906,-0.8514,2005,690
+Upper East,Ghana,Bolgatanga,10.7906,-0.8514,2006,710
+Upper East,Ghana,Bolgatanga,10.7906,-0.8514,2007,740
+Upper East,Ghana,Bolgatanga,10.7906,-0.8514,2008,770
+Upper East,Ghana,Bolgatanga,10.7906,-0.8514,2009,800
+Upper East,Ghana,Bolgatanga,10.7906,-0.8514,2010,830
+Upper East,Ghana,Bolgatanga,10.7906,-0.8514,2011,860
+Upper East,Ghana,Bolgatanga,10.7906,-0.8514,2012,895
+Upper East,Ghana,Bolgatanga,10.7906,-0.8514,2013,910
+Upper East,Ghana,Bolgatanga,10.7906,-0.8514,2014,940

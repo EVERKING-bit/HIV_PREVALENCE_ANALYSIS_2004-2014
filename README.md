@@ -27,15 +27,31 @@ This dataset shows the proportion of HIV-positive individuals within each age gr
 <p></p>
 <img width="560" height="298" alt="hiv prevalence by age group" src="https://github.com/user-attachments/assets/3ff194c0-4946-45d7-af61-c236d26f00e2" />
 
-
 <p></p> 
 <b>2. HIV Gender Estimates Dataset:</b>
 This dataset breaks down HIV-positive cases by male and female populations. It is useful for examining gender disparities, understanding which groups are more affected, and supporting targeted public health responses. The data helps measure progress in reducing gender-based infection gaps.
 <p></p>
 <img width="663" height="258" alt="hiv gender estimate" src="https://github.com/user-attachments/assets/727f3fc0-775c-4d14-afbb-9c97895549fa" />
-
+<p></p>
 
 <p></p>
+<b>3. HIV Positive by Age Group & Site Dataset:</b>
+This dataset captures HIV cases categorized by different age groups and testing sites. It provides insight into which age ranges carry the highest infection burden. The dataset also helps identify site-specific variations that may affect surveillance, prevention, and testing strategies.
+<p></p>
+<img width="645" height="524" alt="hiv positive by age group and site" src="https://github.com/user-attachments/assets/331dfc4b-fdf1-4b23-b753-96e3a455f37d" />
+
+<p></p>
+<b>4. AIDS Related Deaths Dataset:</b>
+This dataset contains annual records of AIDS-related deaths across the regions of Ghana. It helps assess the mortality burden associated with HIV and evaluates how deaths have changed over time. The data is essential for understanding the severity of the epidemic and identifying regions that require enhanced treatment and support services.
+<p></p>
+<img width="536" height="483" alt="aids related deahts" src="https://github.com/user-attachments/assets/95c68628-6e65-4751-8909-247718ab9290" />
+
+<p></p>
+<b>5. Ghana HIV Map (2004–2014):</b>
+This dataset provides geographically referenced HIV-positive cases across Ghana’s regions, including coordinates such as latitude and longitude. It supports spatial analysis and the creation of map visuals that illustrate regional variations in HIV infections. It helps highlight geographic hotspots and spread patterns over the 10-year period.
+<p></p>
+<img width="502" height="617" alt="ghana hiv map" src="https://github.com/user-attachments/assets/9b1eb346-decb-4573-9b20-a237e201d526" />
+
 
 
 🔍 Project Objectives

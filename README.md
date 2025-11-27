@@ -1,4 +1,4 @@
-<img width="1166" height="62" alt="image" src="https://github.com/user-attachments/assets/fe93dcf0-82ce-4438-b02c-6e7add77e401" /><img width="1268" height="62" alt="image" src="https://github.com/user-attachments/assets/225169be-4c24-40da-be10-800e45fa9ae9" /><img width="1532" height="62" alt="image" src="https://github.com/user-attachments/assets/02eb4c50-48a7-4b41-854c-7134728ae1d3" /><img width="1623" height="62" alt="image" src="https://github.com/user-attachments/assets/5f442a5c-028a-468d-bd50-203a751ee5ce" /><img width="1166" height="62" alt="image" src="https://github.com/user-attachments/assets/6fe5d6b5-0d23-433d-809c-69a5853d4a9a" /># 📊 GHANA HIV PREVALENCE ANALYSIS(2004–2014)
+# 📊 GHANA HIV PREVALENCE ANALYSIS(2004–2014)
 Comprehensive Regional, Gender, Age, Site, and Mortality Insights
 This project presents an in-depth analysis of HIV trends in Ghana using five major datasets covering prevalence, gender distribution, regional distribution, age patterns, site-level data, and AIDS-related deaths.
 All analyses were visualized through multi-dashboard Power BI reports.

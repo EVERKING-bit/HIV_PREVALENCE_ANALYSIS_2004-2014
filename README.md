@@ -2,12 +2,7 @@
 Comprehensive Regional, Gender, Age, Site, and Mortality Insights
 This project presents an in-depth analysis of HIV trends in Ghana using five major datasets covering prevalence, gender distribution, regional distribution, age patterns, site-level data, and AIDS-related deaths.
 All analyses were visualized through multi-dashboard Power BI reports.
-
-
-
-<img width="508" height="480" alt="DASH 1" src="https://github.com/user-attachments/assets/393b90ca-a2f7-4f79-b22c-d479a974555c" />
-
-
+<p></p>
 
 🔍 Project Objectives
 Analyze HIV prevalence trends across regions (2004–2014)

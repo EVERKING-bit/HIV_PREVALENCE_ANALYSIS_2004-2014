@@ -203,13 +203,13 @@ This dataset provides geographically referenced HIV-positive cases across Ghana�
 
 <b>Age-Targeted Programs</b>
 <ul>
-  <li>Focus on adults aged 25–39 through education, behavioral interventions, and support programs</li>
+  <li>Focus on adults 25-39 through education, behavioral interventions and support programs </li>
 </ul>
 <p></p>
 
 <b>Urban-Focused Strategies</b>
 <ul>
-  <li>Intensify prevention, testing, and treatment campaigns in high-prevalence urban regions</li>
+  <li>Intensify prevention, testing and treatment campaigns in high prevalence urban regions</li>
 </ul>
 
 <p></p>
@@ -231,14 +231,12 @@ The comprehensive analysis of HIV trends in Ghana from 2004–2014 reveals a cle
 HIV prevalence remains highest in Greater Accra, Ashanti, and Central, with urban areas recording significantly more cases than rural settings due to population density and wider testing coverage. Women continue to bear a disproportionate burden of infections, accounting for the majority of HIV-positive cases and AIDS-related deaths. Adults aged 25–39 emerged as the most affected demographic, emphasizing the need for targeted prevention and education within this productive age group. Despite rising HIV prevalence, the consistent decline in AIDS-related deaths demonstrates progress in treatment accessibility and effectiveness of ART programs. 
 <p></p>
 However, the persistent gender gap, urban concentration of cases, and growing burden among young adults highlight the need for tailored, region-specific interventions. Strengthening awareness, expanding testing services, improving ART adherence, and focusing on high-risk populations will be essential in sustaining progress and reducing the overall HIV burden across the country.
+<p></p>
 
-
-
-
-
-
-
+<img width="3508" height="2480" alt="3" src="https://github.com/user-attachments/assets/3dc27047-939f-4fad-92aa-7361e6045324" />
+<p></p>
 
 👨‍💻 Author
 Everking
-Power BI Analyst | Data Enthusiast
+Power BI Analyst | Data Enthusiast | Graphics Designer | Web Developer
+<p>&copy; 2025 Everking. All rights reserved.</p>

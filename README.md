@@ -6,11 +6,11 @@ All analyses were visualized through multi-dashboard Power BI reports.
 <img width="3508" height="2480" alt="1" src="https://github.com/user-attachments/assets/776c8fd4-20e7-4040-a686-c79a45531747" />
 
 ## INTRODUCTION
-<P ##>
+### **<P>
 HIV remains one of the most significant public health challenges in Ghana, affecting individuals, families, and entire communities across the country. 
 Understanding the prevalence and distribution of HIV is essential for guiding national health policies, allocating resources, and implementing targeted interventions. By analyzing trends across regions, age groups, and years, stakeholders can identify high-risk areas, monitor progress toward national health goals, and strengthen prevention and treatment strategies. 
 This analysis provides valuable insights into how HIV cases are evolving over time, helping health authorities, researchers, and policymakers make informed decisions that support a healthier and more resilient nation.
-</P>
+</P>**
 
 🔍 Project Objectives
 Analyze HIV prevalence trends across regions (2004–2014)

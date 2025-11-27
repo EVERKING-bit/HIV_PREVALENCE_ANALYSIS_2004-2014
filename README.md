@@ -197,7 +197,7 @@ This dataset provides geographically referenced HIV-positive cases across Ghanaâ
 ## Recommendations
 <b>Gender-Specific Interventions</b>
 <ul>
-  <li>1</li>
+  <li>Enhance HIV awareness, testing, and treatment access for women, particularly in urban regions</li>
 </ul>
 <p></p>
 

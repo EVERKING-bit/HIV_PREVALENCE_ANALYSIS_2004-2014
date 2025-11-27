@@ -74,12 +74,29 @@ This dataset provides geographically referenced HIV-positive cases across Ghana�
   <li>Correcting inconsistent region names</li>
   <li>Ensuring uniform year formats</li>
   <li>Formatting numeric fields (percentages, totals, prevalence rates)</li>
+  <li>Mapping regional capitals with accurate latitude and longitude values</li>
+</ul>
+<p></p>
+<b>Data Modeling</b>                                                    
+<b>Tool Used: Power BI </b>
+<p>Relationships were created in Power BI to connect datasets logically:</p>
+
+<ul>
+  <li>Region ↔ HIV Map Data</li>
+  <li>Region ↔ Prevalence Data</li>
+  <li>Region ↔ AIDS-Related Deaths</li>
+  <li>Year ↔ HIV Positive / Gender Data</li>
 </ul>
 
 
 
 
-Mapping regional capitals with accurate latitude and longitude values
+
+
+
+
+
+
 
 
 

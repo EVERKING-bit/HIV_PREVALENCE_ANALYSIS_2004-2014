@@ -236,7 +236,7 @@ However, the persistent gender gap, urban concentration of cases, and growing bu
 <img width="3508" height="2480" alt="3" src="https://github.com/user-attachments/assets/3dc27047-939f-4fad-92aa-7361e6045324" />
 <p></p>
 
-👨‍💻 Author
-Everking
+👨‍💻 <b>Author:</b>
+Everking Nketia Godfred
 Power BI Analyst | Data Enthusiast | Graphics Designer | Web Developer
 <p>&copy; 2025 Everking. All rights reserved.</p>

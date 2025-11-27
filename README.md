@@ -157,17 +157,50 @@ This dataset provides geographically referenced HIV-positive cases across Ghana�
   <li>Decline is more significant in males, possibly indicating better female engagement with care programs or higher initial female prevalence.</li>
   <li> <b>Insight:</b> Continuous treatment access and education are critical to sustaining this downward trend.</li>
 </ul>
+<p></p>
 
+## Summary
+<b>1. Overall Trends:</b>
+<ul>
+  <li>HIV prevalence in Ghana from 2004–2014 shows a steady increase, with Greater Accra, Ashanti, and Central regions being the most affected.</li>
+  <li>Urban regions report higher HIV-positive cases than rural areas, reflecting population density and mobility.</li>
+</ul>
+<p></p>
 
+<b>2. Gender Disparities:</b>
+<ul>
+  <li>Females consistently show higher HIV prevalence than males, accounting for roughly 55–60% of total cases.</li>
+  <li>AIDS-related deaths have declined overall, but females still represent a slightly higher proportion of deaths.</li>
+</ul>
+<p></p>
 
-<img width="1870" height="511" alt="image" src="https://github.com/user-attachments/assets/caa0df1e-5ab2-4990-91aa-39940a2bd13b" />
+<b>3. Age Distribution:</b>
+<ul>
+  <li>Adults aged 25–39 years are most affected by HIV, indicating high-risk age groups.</li>
+  <li>Younger (15–19) and older adults (45+) have lower prevalence rates but still require awareness interventions.</li>
+</ul>
+<p></p>
 
+<b>4. Mortality Trends:</b>
+<ul>
+  <li>AIDS-related deaths decreased from ~24,639 in 2004 to ~16,277 in 2014, showing effectiveness of treatment programs (ART).</li>
+  <li>Decline in deaths is slightly more noticeable in males than females, suggesting a need for sustained female-targeted interventions.</li>
+</ul>
+<p></p>
 
+<b>5. High-Risk Populations and Hotspots:</b>
+<ul>
+  <li>High-risk demographic: women aged 25–39 in urban centers.</li>
+  <li>Geographic hotspots: Greater Accra, Ashanti, and Central regions.</li>
+</ul>
 
-
-
-
-
+## Conclusion
+The comprehensive analysis of HIV trends in Ghana from 2004–2014 reveals a clear pattern shaped by gender, age, and regional disparities. 
+<b>
+HIV prevalence remains highest in Greater Accra, Ashanti, and Central, with urban areas recording significantly more cases than rural settings due to population density and wider testing coverage. Women continue to bear a disproportionate burden of infections, accounting for the majority of HIV-positive cases and AIDS-related deaths. Adults aged 25–39 emerged as the most affected demographic, emphasizing the need for targeted prevention and education within this productive age group. Despite rising HIV prevalence, the consistent decline in AIDS-related deaths demonstrates progress in treatment accessibility and effectiveness of ART programs. 
+<b>
+However, the persistent gender gap, urban concentration of cases, and growing burden among young adults highlight the need for tailored, region-specific interventions. Strengthening awareness, expanding testing services, improving ART adherence, and focusing on high-risk populations will be essential in sustaining progress and reducing the overall HIV burden across the country.
+<img width="15317" height="63" alt="image" src="https://github.com/user-attachments/assets/7b818ace-9528-416a-9b3f-0bf5befd413e" />
 
 
 

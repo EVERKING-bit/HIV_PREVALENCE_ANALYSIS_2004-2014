@@ -67,11 +67,18 @@ This dataset provides geographically referenced HIV-positive cases across Ghanaâ
 
 ## Data Cleaning & Preparation
 <b>Tools Used: Excel, Power Bi,</b>
-Data cleaning involved:
-Removing empty or duplicate rows
-Correcting inconsistent region names
-Ensuring uniform year formats
-Formatting numeric fields (percentages, totals, prevalence rates)
+<p></p>
+<b>Data cleaning involved:</b>
+<ul>
+  <li>Removing empty or duplicate rows</li>
+  <li>Correcting inconsistent region names</li>
+  <li>Ensuring uniform year formats</li>
+  <li>Formatting numeric fields (percentages, totals, prevalence rates)</li>
+</ul>
+
+
+
+
 Mapping regional capitals with accurate latitude and longitude values
 
 

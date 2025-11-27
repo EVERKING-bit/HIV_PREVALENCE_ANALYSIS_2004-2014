@@ -64,9 +64,9 @@ This dataset provides geographically referenced HIV-positive cases across Ghanaâ
 4. Compare regional differences to highlight areas with the highest and lowest prevalence.
 5. Provide insights for public health interventions based on observed patterns and trends.
 <P></P>
-<b>Data Cleaning & Preparation                         Tools Used: Excel, Power Bi, SQL</b>
-<img width="269" height="263" alt="image" src="https://github.com/user-attachments/assets/0540cb07-9cf9-431e-a658-833d06c92019" />
 
+## Data Cleaning & Preparation
+<b>Tools Used: Excel, Power Bi,</b>
 Data cleaning involved:
 Removing empty or duplicate rows
 Correcting inconsistent region names

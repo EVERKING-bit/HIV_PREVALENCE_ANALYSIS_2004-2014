@@ -6,7 +6,13 @@ All analyses were visualized through multi-dashboard Power BI reports.
 <img width="3508" height="2480" alt="1" src="https://github.com/user-attachments/assets/776c8fd4-20e7-4040-a686-c79a45531747" />
 
 ## INTRODUCTION
-### HIV remains one of the most significant public health challenges in Ghana, affecting individuals, families, and entire communities across the country. Understanding the prevalence and distribution of HIV is essential for guiding national health policies, allocating resources, and implementing targeted interventions. By analyzing trends across regions, age groups, and years, stakeholders can identify high-risk areas, monitor progress toward national health goals, and strengthen prevention and treatment strategies. This analysis provides valuable insights into how HIV cases are evolving over time, helping health authorities, researchers, and policymakers make informed decisions that support a healthier and more resilient nation.
+HIV remains one of the most significant public health challenges in Ghana, affecting individuals, families, and entire communities across the country. Understanding the prevalence and distribution of HIV is essential for guiding national health policies, allocating resources, and implementing targeted interventions. By analyzing trends across regions, age groups, and years, stakeholders can identify high-risk areas, monitor progress toward national health goals, and strengthen prevention and treatment strategies. This analysis provides valuable insights into how HIV cases are evolving over time, helping health authorities, researchers, and policymakers make informed decisions that support a healthier and more resilient nation.
+
+## PROBLEM STATEMENT
+HIV continues to pose a significant public health challenge in Ghana, affecting individuals, families, and communities across all regions. Despite ongoing interventions, variations in prevalence still exist between regions, age groups, and genders, making it necessary to conduct detailed and data-driven assessments. Understanding these patterns is essential for guiding national strategies, improving resource allocation, and strengthening prevention and treatment programs.
+However, existing HIV-related data in Ghana is often scattered across multiple reports and datasets. This makes it difficult to gain a complete and unified view of national trends. To address this gap, this study brings together five key datasets to analyze HIV prevalence, demographic patterns, regional distribution, and AIDS-related deaths. By combining these datasets, the analysis provides clearer insights that can support more informed decision-making and targeted interventions.
+<img width="6241" height="133" alt="image" src="https://github.com/user-attachments/assets/1a64b678-9d1e-42e9-b221-f3bf17dde62f" />
+
 
 🔍 Project Objectives
 Analyze HIV prevalence trends across regions (2004–2014)

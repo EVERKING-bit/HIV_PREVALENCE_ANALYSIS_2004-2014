@@ -197,31 +197,30 @@ This dataset provides geographically referenced HIV-positive cases across Ghana�
 ## Recommendations
 <b>Gender-Specific Interventions</b>
 <ul>
-  <li>Enhance HIV awareness, testing, and treatment access for women, particularly in urban regions.</li>
+  <li>Enhance HIV awareness, testing, and treatment access for women, particularly in urban regions</li>
 </ul>
 <p></p>
 
 <b>Age-Targeted Programs</b>
 <ul>
-  <li>Focus on adults aged 25–39 through education, behavioral interventions, and support programs.</li>
+  <li>Focus on adults aged 25–39 through education, behavioral interventions, and support programs</li>
 </ul>
 <p></p>
 
 <b>Urban-Focused Strategies</b>
 <ul></ul>
-<li>Intensify prevention, testing, and treatment campaigns in high-prevalence urban regions.</li>
+<li>Intensify prevention, testing, and treatment campaigns in high-prevalence urban regions</li>
 <p></p>
 
 <b>Rural Outreach Programs</b>
 <ul>
-  <li>Implement mobile clinics, community awareness, and education to improve testing and treatment accessibility in rural areas.</li>
+  <li>Implement mobile clinics, community awareness, and education to improve testing and treatment accessibility in rural areas</li>
 </ul>
 <p></p>
 
 <b>Sustain ART and Healthcare Programs</b>
 <ul>
-  <li>Continue providing antiretroviral therapy and monitor treatment adherence to maintain declining AIDS-related deaths.
-</li>
+  <li>Continue providing antiretroviral therapy and monitor treatment adherence to maintain declining AIDS-related deaths.</li>
 </ul>
 
 ## Conclusion

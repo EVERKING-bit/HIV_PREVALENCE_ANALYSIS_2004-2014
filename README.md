@@ -31,7 +31,8 @@ This dataset shows the proportion of HIV-positive individuals within each age gr
 <p></p> 
 <b>2. HIV Gender Estimates Dataset:</b>
 This dataset breaks down HIV-positive cases by male and female populations. It is useful for examining gender disparities, understanding which groups are more affected, and supporting targeted public health responses. The data helps measure progress in reducing gender-based infection gaps.
-<img width="563" height="258" alt="hiv gender estimate" src="https://github.com/user-attachments/assets/727f3fc0-775c-4d14-afbb-9c97895549fa" />
+<p></p>
+<img width="663" height="258" alt="hiv gender estimate" src="https://github.com/user-attachments/assets/727f3fc0-775c-4d14-afbb-9c97895549fa" />
 
 
 <p></p>

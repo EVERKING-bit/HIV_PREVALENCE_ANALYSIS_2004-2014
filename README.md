@@ -88,10 +88,8 @@ This dataset provides geographically referenced HIV-positive cases across Ghanaâ
   <li>Year â†” HIV Positive / Gender Data</li>
 </ul>
 
-
-
-
-
+# KPIs
+<img width="3508" height="2480" alt="2" src="https://github.com/user-attachments/assets/685bec56-920a-449b-bee2-182e68157cf9" />
 
 
 

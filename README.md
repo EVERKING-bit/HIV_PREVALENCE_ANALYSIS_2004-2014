@@ -1,4 +1,4 @@
-# 📊 Ghana HIV Data Analysis (2004–2014)
+# 📊 GHANA HIV PREVALENCE ANALYSIS(2004–2014)
 Comprehensive Regional, Gender, Age, Site, and Mortality Insights
 This project presents an in-depth analysis of HIV trends in Ghana using five major datasets covering prevalence, gender distribution, regional distribution, age patterns, site-level data, and AIDS-related deaths.
 All analyses were visualized through multi-dashboard Power BI reports.
@@ -123,6 +123,27 @@ This dataset provides geographically referenced HIV-positive cases across Ghana�
   <li>Age brackets with highest infection burden (25–39 years)</li>
 </ul>
 <img width="3508" height="2480" alt="DASH 4" src="https://github.com/user-attachments/assets/443453eb-eb8c-4c8f-af3d-8e31c3e4d78e" />
+<p></p>
+
+## Findings & Insights
+
+<b>1. Overall HIV Trends</b>
+<ul>
+  <li>HIV prevalence in Ghana shows steady regional and national growth over the 2004–2014 period.</li>
+  <li>Greater Accra and Ashanti regions consistently report the highest number of HIV-positive cases, likely due to urbanization, higher population density, and increased mobility.</li>
+  <li>Lower prevalence regions such as Upper West, Upper East, and Northern show slower growth but still require attention to prevent future outbreaks.</li>
+</ul>
+<p></p>
+
+<b>2. Gender Disparities</b>
+<ul>
+  <li>Females consistently have higher HIV prevalence than males across almost all regions, accounting for roughly 55–60% of total HIV cases.</li>
+  <li>Similarly, AIDS-related deaths are slightly higher in females, though overall deaths are declining over time due to improved treatment (ART programs).</li>
+  <li>Insight: Gender-specific interventions targeting women are critical, including education, testing, and access to healthcare services.</li>
+</ul>
+
+
+
 
 
 

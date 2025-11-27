@@ -52,8 +52,9 @@ This dataset provides geographically referenced HIV-positive cases across Ghana�
 <p></p>
 <img width="502" height="617" alt="ghana hiv map" src="https://github.com/user-attachments/assets/9b1eb346-decb-4573-9b20-a237e201d526" />
 <p></p>
+
 ## KEY VARIABLES AND THIER PURPOSE
-<img width="1361" height="707" alt="image" src="https://github.com/user-attachments/assets/86bd10cf-9b1c-43e7-8d24-9e0c88d35a8b" />
+<img width="1361" height="707" alt="image" src="https://github.com/user-attachments/assets/4ff05a32-2cd4-4d6e-94f2-8a190fa8b17e" />
 
 
 👨‍💻 Author

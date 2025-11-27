@@ -88,8 +88,30 @@ This dataset provides geographically referenced HIV-positive cases across Ghanaâ
   <li>Year â†” HIV Positive / Gender Data</li>
 </ul>
 
-# KPIs
+## KPIs
 <img width="3508" height="2480" alt="2" src="https://github.com/user-attachments/assets/685bec56-920a-449b-bee2-182e68157cf9" />
+
+## DASHBOARD 1: HIV Cases (Regional & Gender)
+<ul>
+  <li>KPIs for total male, female, and overall HIV cases</li>
+  <li>Regional comparison of male vs. female cases</li>
+  <li>Line chart showing trends in HIV-positive cases by region</li>
+  <li>Gender distribution pie chart</li>
+</ul>
+<img width="3508" height="2480" alt="DASH 1" src="https://github.com/user-attachments/assets/68b5e062-aa96-4028-8d3e-50531f3f2c25" />
+
+## DASHBOARD 2
+<img width="3508" height="2480" alt="DASH 2" src="https://github.com/user-attachments/assets/e5ba973c-4b28-4605-9787-59544abfe60e" />
+
+## DASHBOARD 3
+<img width="3508" height="2480" alt="DASH 3" src="https://github.com/user-attachments/assets/c883ac8c-74a7-4c83-b0b0-6a8f4fcab9ee" />
+
+## DASHBOARD 4
+<img width="3508" height="2480" alt="DASH 4" src="https://github.com/user-attachments/assets/443453eb-eb8c-4c8f-af3d-8e31c3e4d78e" />
+
+
+
+
 
 
 

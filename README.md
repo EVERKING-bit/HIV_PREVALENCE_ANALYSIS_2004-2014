@@ -11,7 +11,18 @@ HIV remains one of the most significant public health challenges in Ghana, affec
 ## PROBLEM STATEMENT
 HIV continues to pose a significant public health challenge in Ghana, affecting individuals, families, and communities across all regions. Despite ongoing interventions, variations in prevalence still exist between regions, age groups, and genders, making it necessary to conduct detailed and data-driven assessments. Understanding these patterns is essential for guiding national strategies, improving resource allocation, and strengthening prevention and treatment programs.
 However, existing HIV-related data in Ghana is often scattered across multiple reports and datasets. This makes it difficult to gain a complete and unified view of national trends. To address this gap, this study brings together five key datasets to analyze HIV prevalence, demographic patterns, regional distribution, and AIDS-related deaths. By combining these datasets, the analysis provides clearer insights that can support more informed decision-making and targeted interventions.
-<img width="6241" height="133" alt="image" src="https://github.com/user-attachments/assets/1a64b678-9d1e-42e9-b221-f3bf17dde62f" />
+
+## DATA USED
+This analysis is based on five key datasets that collectively provide a comprehensive understanding of HIV patterns, trends, and demographic impacts in Ghana. Each dataset contributes unique information that enhances the depth and accuracy of the findings.
+<p></p>
+**This is bold text**
+Data Source: (Ghana Health Service; Pdf extracted)
+1. HIV Prevalence by Age Group Dataset
+This dataset shows the proportion of HIV-positive individuals within each age group relative to the number tested. It supports the calculation of prevalence rates and helps identify age groups with higher vulnerability. This information is important for designing age-specific prevention and counselling programs.
+2. HIV Gender Estimates Dataset
+This dataset breaks down HIV-positive cases by male and female populations. It is useful for examining gender disparities, understanding which groups are more affected, and supporting targeted public health responses. The data helps measure progress in reducing gender-based infection gaps.
+
+
 
 
 🔍 Project Objectives

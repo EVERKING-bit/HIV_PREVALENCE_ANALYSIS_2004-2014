@@ -51,95 +51,10 @@ This dataset contains annual records of AIDS-related deaths across the regions o
 This dataset provides geographically referenced HIV-positive cases across Ghana’s regions, including coordinates such as latitude and longitude. It supports spatial analysis and the creation of map visuals that illustrate regional variations in HIV infections. It helps highlight geographic hotspots and spread patterns over the 10-year period.
 <p></p>
 <img width="502" height="617" alt="ghana hiv map" src="https://github.com/user-attachments/assets/9b1eb346-decb-4573-9b20-a237e201d526" />
+<p></p>
+## KEY VARIABLES AND THIER PURPOSE
+<img width="1361" height="707" alt="image" src="https://github.com/user-attachments/assets/86bd10cf-9b1c-43e7-8d24-9e0c88d35a8b" />
 
-
-
-🔍 Project Objectives
-Analyze HIV prevalence trends across regions (2004–2014)
-
-Identify gender-based distribution and disparities
-
-Examine age-specific HIV infection patterns
-
-Assess AIDS-related mortality trends
-
-Understand regional hotspots and testing-site-level variation
-
-Provide insights and recommendations for public health decisions
-
-📁 Datasets Used
-AIDS Related Deaths (2004–2014)
-
-Ghana HIV Map (2004–2014)
-
-HIV Gender Estimates by Region
-
-HIV Positive by Age Group & Testing Site
-
-HIV Prevalence by Age Group
-
-📊 Dashboard Overview
-📌 Dashboard 1: HIV Cases (Regional & Gender)
-KPIs for total male, female, and overall HIV cases
-
-Regional comparison of male vs. female cases
-
-Line chart showing trends in HIV-positive cases by region
-
-Gender distribution pie chart
-
-📌 Dashboard 2: AIDS-Related Deaths
-KPIs for male, female, and total deaths
-
-Gender death distribution
-
-Trend analysis showing decline in AIDS-related mortality
-
-📌 Dashboard 3: Geographic Map
-Filled map visual showing total HIV cases across regions
-
-Identification of high-burden regions (Greater Accra, Ashanti)
-
-Spatial distribution trends over the years
-
-📌 Dashboard 4: Age Group & Site Analysis
-Regional breakdown of positive cases by age
-
-Hotspot sites with higher positivity rates
-
-Age brackets with highest infection burden (25–39 years)
-
-🧠 Key Insights & Findings (Summary)
-Greater Accra and Ashanti consistently show the highest HIV cases, indicating major urban hotspots.
-
-Females recorded significantly higher HIV cases than males across all regions.
-
-Ages 25–39 show the highest HIV prevalence, reflecting increased risk among young adults.
-
-AIDS-related deaths decreased steadily from 2004 to 2014, showing improvements in treatment and ART access.
-
-Rural sites reported cases but urban sites accounted for higher positivity, likely due to testing access differences.
-
-Northern and Upper regions show lower HIV cases, but still require targeted prevention due to rising trends.
-
-📝 Summary With Recommendations
-The overall analysis indicates a concentrated HIV burden in urbanized regions, especially Greater Accra and Ashanti. The gender pattern highlights a persistent higher vulnerability among females, requiring strengthened empowerment, early detection, and tailored interventions. The 25–39 age group remains a critical risk segment due to socio-economic and behavioral factors. Despite increasing HIV cases across regions, the decline in AIDS-related deaths reflects progress in treatment availability.
-
-Recommendations
-Strengthen urban-focused prevention in Greater Accra & Ashanti
-
-Expand female-focused HIV education, testing, and support programs
-
-Intensify HIV testing among youth (15–24) to reduce late detection
-
-Improve rural testing infrastructure to capture underreported areas
-
-Continue expanding ART coverage to sustain reduction in deaths
-
-Increase public awareness and stigma reduction campaigns
-
-🏁 Conclusion
-The analysis clearly shows that Ghana has made progress in reducing AIDS-related deaths, but HIV transmission remains active, particularly in highly populated regions and among adults aged 25–39. Gender disparities and regional differences emphasize the need for targeted, data-driven interventions. Strengthening prevention, improving access to testing, and sustaining treatment programs are vital to reducing new infections and improving national HIV outcomes.
 
 👨‍💻 Author
 Everking

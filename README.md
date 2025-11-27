@@ -208,8 +208,10 @@ This dataset provides geographically referenced HIV-positive cases across Ghanaâ
 <p></p>
 
 <b>Urban-Focused Strategies</b>
-<ul></ul>
-<li>Intensify prevention, testing, and treatment campaigns in high-prevalence urban regions</li>
+<ul>
+  <li>Intensify prevention, testing, and treatment campaigns in high-prevalence urban regions</li>
+</ul>
+
 <p></p>
 
 <b>Rural Outreach Programs</b>
@@ -220,7 +222,7 @@ This dataset provides geographically referenced HIV-positive cases across Ghanaâ
 
 <b>Sustain ART and Healthcare Programs</b>
 <ul>
-  <li>Continue providing antiretroviral therapy and monitor treatment adherence to maintain declining AIDS-related deaths.</li>
+  <li>Continue providing antiretroviral therapy and monitor treatment adherence to maintain declining AIDS-related deaths</li>
 </ul>
 
 ## Conclusion

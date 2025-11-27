@@ -194,14 +194,27 @@ This dataset provides geographically referenced HIV-positive cases across Ghana�
   <li>Geographic hotspots: Greater Accra, Ashanti, and Central regions.</li>
 </ul>
 
+## Recommendations
+<b>Gender-Specific Interventions</b>
+<ul>
+  <li>Enhance HIV awareness, testing, and treatment access for women, particularly in urban regions.</li>
+</ul>
+
+**Age-Targeted Programs**
+Focus on adults aged 25–39 through education, behavioral interventions, and support programs.
+Urban-Focused Strategies
+Intensify prevention, testing, and treatment campaigns in high-prevalence urban regions.
+Rural Outreach Programs
+Implement mobile clinics, community awareness, and education to improve testing and treatment accessibility in rural areas.
+Sustain ART and Healthcare Programs
+Continue providing antiretroviral therapy and monitor treatment adherence to maintain declining AIDS-related deaths.
+
 ## Conclusion
 The comprehensive analysis of HIV trends in Ghana from 2004–2014 reveals a clear pattern shaped by gender, age, and regional disparities. 
-<br>
+<p></p>
 HIV prevalence remains highest in Greater Accra, Ashanti, and Central, with urban areas recording significantly more cases than rural settings due to population density and wider testing coverage. Women continue to bear a disproportionate burden of infections, accounting for the majority of HIV-positive cases and AIDS-related deaths. Adults aged 25–39 emerged as the most affected demographic, emphasizing the need for targeted prevention and education within this productive age group. Despite rising HIV prevalence, the consistent decline in AIDS-related deaths demonstrates progress in treatment accessibility and effectiveness of ART programs. 
-<br>
+<p></p>
 However, the persistent gender gap, urban concentration of cases, and growing burden among young adults highlight the need for tailored, region-specific interventions. Strengthening awareness, expanding testing services, improving ART adherence, and focusing on high-risk populations will be essential in sustaining progress and reducing the overall HIV burden across the country.
-<img width="15317" height="63" alt="image" src="https://github.com/user-attachments/assets/7b818ace-9528-416a-9b3f-0bf5befd413e" />
-
 
 
 

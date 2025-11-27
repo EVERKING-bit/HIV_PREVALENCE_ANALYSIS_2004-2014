@@ -1,4 +1,4 @@
-# 📊 GHANA HIV PREVALENCE ANALYSIS(2004–2014)
+<img width="1532" height="62" alt="image" src="https://github.com/user-attachments/assets/02eb4c50-48a7-4b41-854c-7134728ae1d3" /><img width="1623" height="62" alt="image" src="https://github.com/user-attachments/assets/5f442a5c-028a-468d-bd50-203a751ee5ce" /><img width="1166" height="62" alt="image" src="https://github.com/user-attachments/assets/6fe5d6b5-0d23-433d-809c-69a5853d4a9a" /># 📊 GHANA HIV PREVALENCE ANALYSIS(2004–2014)
 Comprehensive Regional, Gender, Age, Site, and Mortality Insights
 This project presents an in-depth analysis of HIV trends in Ghana using five major datasets covering prevalence, gender distribution, regional distribution, age patterns, site-level data, and AIDS-related deaths.
 All analyses were visualized through multi-dashboard Power BI reports.
@@ -203,26 +203,26 @@ This dataset provides geographically referenced HIV-positive cases across Ghana�
 
 <b>Age-Targeted Programs</b>
 <ul>
-  <li>Focus on adults aged 25–39 through education, behavioral interventions, and support programs </li>
+  <li>Focus on adults aged 25–39 through education, behavioral interventions, and support programs</li>
 </ul>
 <p></p>
 
 <b>Urban-Focused Strategies</b>
 <ul>
-  <li>Intensify prevention, testing, and treatment campaigns in high-prevalence urban regions </li>
+  <li>Intensify prevention, testing, and treatment campaigns in high-prevalence urban regions</li>
 </ul>
 
 <p></p>
 
 <b>Rural Outreach Programs</b>
 <ul>
-  <li>Implement mobile clinics, community awareness, and education to improve testing and treatment accessibility in rural areas </li>
+  <li>Implement mobile clinics, community awareness, and education to improve testing and treatment accessibility in rural areas </li>
 </ul>
 <p></p>
 
 <b>Sustain ART and Healthcare Programs</b>
 <ul>
-  <li>Continue providing antiretroviral therapy and monitor treatment adherence to maintain declining AIDS-related deaths </li>
+  <li>Continue providing antiretroviral therapy and monitor treatment adherence to maintain declining AIDS-related deaths</li>
 </ul>
 
 ## Conclusion

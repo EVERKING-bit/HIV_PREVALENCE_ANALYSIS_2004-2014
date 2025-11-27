@@ -22,7 +22,8 @@ This analysis is based on five key datasets that collectively provide a comprehe
 Data Source: (Ghana Health Service; Pdf extracted)
 <p></p>1. HIV Prevalence by Age Group Dataset
 This dataset shows the proportion of HIV-positive individuals within each age group relative to the number tested. It supports the calculation of prevalence rates and helps identify age groups with higher vulnerability. This information is important for designing age-specific prevention and counselling programs.
-<img width="360" height="198" alt="hiv prevalence by age group" src="https://github.com/user-attachments/assets/3ff194c0-4946-45d7-af61-c236d26f00e2" />
+<p></p>
+<img width="560" height="298" alt="hiv prevalence by age group" src="https://github.com/user-attachments/assets/3ff194c0-4946-45d7-af61-c236d26f00e2" />
 
 
 <p></p>2. HIV Gender Estimates Dataset

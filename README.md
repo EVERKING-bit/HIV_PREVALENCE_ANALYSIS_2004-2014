@@ -15,11 +15,10 @@ However, existing HIV-related data in Ghana is often scattered across multiple r
 ## DATA USED
 This analysis is based on five key datasets that collectively provide a comprehensive understanding of HIV patterns, trends, and demographic impacts in Ghana. Each dataset contributes unique information that enhances the depth and accuracy of the findings.
 <p></p>
-**This is bold text**
 Data Source: (Ghana Health Service; Pdf extracted)
-1. HIV Prevalence by Age Group Dataset
+<p></p>1. HIV Prevalence by Age Group Dataset
 This dataset shows the proportion of HIV-positive individuals within each age group relative to the number tested. It supports the calculation of prevalence rates and helps identify age groups with higher vulnerability. This information is important for designing age-specific prevention and counselling programs.
-2. HIV Gender Estimates Dataset
+<p></p>2. HIV Gender Estimates Dataset
 This dataset breaks down HIV-positive cases by male and female populations. It is useful for examining gender disparities, understanding which groups are more affected, and supporting targeted public health responses. The data helps measure progress in reducing gender-based infection gaps.
 
 

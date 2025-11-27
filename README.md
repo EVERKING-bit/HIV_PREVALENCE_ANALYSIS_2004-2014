@@ -203,13 +203,13 @@ This dataset provides geographically referenced HIV-positive cases across Ghanaâ
 
 <b>Age-Targeted Programs</b>
 <ul>
-  <li>Focus on adults 25-39 through education, behavioral interventions and support programs </li>
+  <li>Focus on adults 25-39 through education, behavioral interventions and support programs</li>
 </ul>
 <p></p>
 
 <b>Urban-Focused Strategies</b>
 <ul>
-  <li>Intensify prevention, testing and treatment campaigns in high prevalence urban regions</li>
+  <li>Intensify prevention, testing and treatment campaigns in high prevalence urban regions</li>
 </ul>
 
 <p></p>

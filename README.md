@@ -199,15 +199,30 @@ This dataset provides geographically referenced HIV-positive cases across Ghana�
 <ul>
   <li>Enhance HIV awareness, testing, and treatment access for women, particularly in urban regions.</li>
 </ul>
+<p></p>
 
-**Age-Targeted Programs**
-Focus on adults aged 25–39 through education, behavioral interventions, and support programs.
-Urban-Focused Strategies
-Intensify prevention, testing, and treatment campaigns in high-prevalence urban regions.
-Rural Outreach Programs
-Implement mobile clinics, community awareness, and education to improve testing and treatment accessibility in rural areas.
-Sustain ART and Healthcare Programs
-Continue providing antiretroviral therapy and monitor treatment adherence to maintain declining AIDS-related deaths.
+<b>Age-Targeted Programs</b>
+<ul>
+  <li>Focus on adults aged 25–39 through education, behavioral interventions, and support programs.</li>
+</ul>
+<p></p>
+
+<b>Urban-Focused Strategies</b>
+<ul></ul>
+<li>Intensify prevention, testing, and treatment campaigns in high-prevalence urban regions.</li>
+<p></p>
+
+<b>Rural Outreach Programs</b>
+<ul>
+  <li>Implement mobile clinics, community awareness, and education to improve testing and treatment accessibility in rural areas.</li>
+</ul>
+<p></p>
+
+<b>Sustain ART and Healthcare Programs</b>
+<ul>
+  <li>Continue providing antiretroviral therapy and monitor treatment adherence to maintain declining AIDS-related deaths.
+</li>
+</ul>
 
 ## Conclusion
 The comprehensive analysis of HIV trends in Ghana from 2004–2014 reveals a clear pattern shaped by gender, age, and regional disparities. 

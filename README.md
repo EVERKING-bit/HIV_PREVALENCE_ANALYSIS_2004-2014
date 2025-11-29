@@ -98,7 +98,7 @@ This dataset provides geographically referenced HIV-positive cases across Ghanaâ
   <li>Line chart showing trends in HIV-positive cases by region</li>
   <li>Gender distribution pie chart</li>
 </ul>
-<img width="3508" height="2480" alt="DASH 1" src="https://github.com/user-attachments/assets/68b5e062-aa96-4028-8d3e-50531f3f2c25" />
+<img width="3508" height="2480" alt="DASH 1" src="https://github.com/user-attachments/assets/81fc7c11-da59-4b0f-a67f-9d3da568920d" />
 
 ## DASHBOARD 2: AIDS-Related Deaths
 <ul>
@@ -106,7 +106,7 @@ This dataset provides geographically referenced HIV-positive cases across Ghanaâ
   <li>Gender death distribution</li>
   <li>Trend analysis showing decline in AIDS-related mortality</li>
 </ul>
-<img width="3508" height="2480" alt="DASH 2" src="https://github.com/user-attachments/assets/e5ba973c-4b28-4605-9787-59544abfe60e" />
+<img width="3508" height="2480" alt="DASH 2" src="https://github.com/user-attachments/assets/57e99f76-1b0a-4732-a5aa-c3804436d4d3" />
 
 ## DASHBOARD 3: Geographic Map
 <ul>
@@ -122,11 +122,10 @@ This dataset provides geographically referenced HIV-positive cases across Ghanaâ
   <li>Hotspot sites with higher positivity rates</li>
   <li>Age brackets with highest infection burden (25â€“39 years)</li>
 </ul>
-<img width="3508" height="2480" alt="DASH 4" src="https://github.com/user-attachments/assets/e0063cbd-55fb-4c6e-b94e-581cc2faeca6" />
+<img width="3508" height="2480" alt="DASH 4" src="https://github.com/user-attachments/assets/ca00f026-31e8-410e-b204-b69fe28b4a7e" />
 <p></p>
 
 ## FINDINGS & INSIGHTS
-
 <b>1. Overall HIV Trends</b>
 <ul>
   <li>HIV prevalence in Ghana shows steady regional and national growth over the 2004â€“2014 period.</li>

@@ -91,7 +91,7 @@ This dataset provides geographically referenced HIV-positive cases across Ghanaâ
 ## KPIs
 <img width="3508" height="2480" alt="2" src="https://github.com/user-attachments/assets/685bec56-920a-449b-bee2-182e68157cf9" />
 
-## DASHBOARD 1: HIV Cases (Regional & Gender)
+## DASHBOARD 1: HIV Cases & Related Deaths (Regional & Gender)
 <ul>
   <li>KPIs for total male, female, and overall HIV cases</li>
   <li>Regional comparison of male vs. female cases</li>
@@ -101,23 +101,24 @@ This dataset provides geographically referenced HIV-positive cases across Ghanaâ
   <li>Gender death distribution</li>
   <li>Trend analysis showing decline in AIDS-related mortality</li>
 </ul>
-<img width="3508" height="2480" alt="1" src="https://github.com/user-attachments/assets/912b17af-152b-4cbd-a081-17b3648ba56e" />
+<img width="3508" height="2480" alt="DASH 1" src="https://github.com/user-attachments/assets/8e41bd65-cd9d-4294-9e83-8e8e57ed0abe" />
 
-## DASHBOARD 3: Geographic Map
+## DASHBOARD 2: Geographic Map
 <ul>
   <li>Filled map visual showing total HIV cases across regions</li>
   <li>Identification of high-burden regions (Greater Accra, Ashanti)</li>
   <li>Spatial distribution trends over the years</li>
 </ul>
-<img width="3508" height="2480" alt="DASH 3" src="https://github.com/user-attachments/assets/c883ac8c-74a7-4c83-b0b0-6a8f4fcab9ee" />
+<img width="3508" height="2480" alt="DASH 2" src="https://github.com/user-attachments/assets/4d4b9aeb-6fe3-4d24-9ad0-7989c4b76e1f" />
 
-## DASHBOARD 4: Age Group & Site Analysis
+## DASHBOARD 3: Age Group & Site Analysis
 <ul>
   <li>Regional breakdown of positive cases by age</li>
   <li>Hotspot sites with higher positivity rates</li>
   <li>Age brackets with highest infection burden (25â€“39 years)</li>
 </ul>
-<img width="3508" height="2480" alt="DASH 4" src="https://github.com/user-attachments/assets/ca00f026-31e8-410e-b204-b69fe28b4a7e" />
+<img width="3508" height="2480" alt="DASH 3" src="https://github.com/user-attachments/assets/e97c7d0c-3595-4f96-be64-3ec8b4d4da2f" />
+
 <p></p>
 
 ## FINDINGS & INSIGHTS

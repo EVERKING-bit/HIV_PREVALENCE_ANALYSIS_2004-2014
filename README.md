@@ -101,7 +101,7 @@ This dataset provides geographically referenced HIV-positive cases across Ghanaâ
   <li>Gender death distribution</li>
   <li>Trend analysis showing decline in AIDS-related mortality</li>
 </ul>
-<img width="3508" height="2480" alt="DASH 1" src="https://github.com/user-attachments/assets/81fc7c11-da59-4b0f-a67f-9d3da568920d" />
+<img width="3508" height="2480" alt="1" src="https://github.com/user-attachments/assets/912b17af-152b-4cbd-a081-17b3648ba56e" />
 
 ## DASHBOARD 3: Geographic Map
 <ul>

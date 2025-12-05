@@ -97,16 +97,11 @@ This dataset provides geographically referenced HIV-positive cases across Ghanaâ
   <li>Regional comparison of male vs. female cases</li>
   <li>Line chart showing trends in HIV-positive cases by region</li>
   <li>Gender distribution pie chart</li>
-</ul>
-<img width="3508" height="2480" alt="DASH 1" src="https://github.com/user-attachments/assets/81fc7c11-da59-4b0f-a67f-9d3da568920d" />
-
-## DASHBOARD 2: AIDS-Related Deaths
-<ul>
   <li>KPIs for male, female, and total deaths</li>
   <li>Gender death distribution</li>
   <li>Trend analysis showing decline in AIDS-related mortality</li>
 </ul>
-<img width="3508" height="2480" alt="DASH 2" src="https://github.com/user-attachments/assets/57e99f76-1b0a-4732-a5aa-c3804436d4d3" />
+<img width="3508" height="2480" alt="DASH 1" src="https://github.com/user-attachments/assets/81fc7c11-da59-4b0f-a67f-9d3da568920d" />
 
 ## DASHBOARD 3: Geographic Map
 <ul>
